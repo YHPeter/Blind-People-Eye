@@ -1,0 +1,28 @@
+a living room with a couch a table and a tv
+open room with bright colored wood flooring and furniture <end> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Epoch 2 Batch 1370 Loss 2.2914 Acc 0.5212 LR 0.00010661635315045714 Time Used 7468.53 sec
+1it [00:00, 141.60it/s]96it/s]
+a tow truck with a flag on the back
+a crane truck parked in a parking lot next to cars <end> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Epoch 2 Batch 1380 Loss 2.2907 Acc 0.5212 LR 0.00010699348786147311 Time Used 7493.67 sec
+1it [00:00, 136.15it/s]02it/s]
+a man riding a wave on top of a surfboard
+the ocean <unk> around a man on a surfboard <end> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Epoch 2 Batch 1390 Loss 2.2900 Acc 0.5213 LR 0.00010737062257248908 Time Used 7518.93 sec
+1it [00:00, 198.94it/s]05it/s]
+a row of colorful <unk> in a body of water
+a row of colorful vases sitting on top of a counter <end> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Epoch 2 Batch 1400 Loss 2.2892 Acc 0.5213 LR 0.00010774775728350505 Time Used 7544.16 sec
+model save
+1it [00:00, 199.74it/s]94it/s]
+a vase of flowers sitting on a table
+a brown vase holding a green flower filled plant next to a short white wall <end> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Epoch 2 Batch 1410 Loss 2.2884 Acc 0.5214 LR 0.00010812489199452102 Time Used 7572.56 sec
+1it [00:00, 192.83it/s]00it/s]
+a cat is sitting on top of a box
+gray cat sleeping on top of some picture <unk> <end> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Epoch 2 Batch 1420 Loss 2.2876 Acc 0.5215 LR 0.0001085020339814946 Time Used 7597.75 sec
+1it [00:00, 157.70it/s]36it/s]
+a table with a bunch of different types of cakes
+a serving tray decorated with desserts serves as centerpiece for table <end> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad> <pad>
+Epoch 2 Batch 1430 Loss 2.2869 Acc 0.5215 LR 0.00010887916869251058 Time Used 7623.01 s
