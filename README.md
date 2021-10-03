@@ -21,7 +21,7 @@
 
 ### 2. Front-end: (Java)
 
-- Andriod (TexttoSpeech, Vibrate... )
+- Andriod (TexttoSpeech, ... )
 
 ### 3. Back-end: (Python)
 
@@ -41,7 +41,7 @@
 
 - Use fundamental java libraries to POST files, by constricting fundamental HTTP request structure
 - Order the camera within App and save images with temporary space and address
-- The relationship between the multithread and Intend
+- The relationship between the multithread and Intent
 
 ### 3. Back-end
 
@@ -104,3 +104,7 @@ API RESPONSE:
 ├─Server    -> Back-End Files 
 └─Train     -> Model and Training File
 ```
+
+## YouTube Video Intro
+
+Welcome to Watch: <https://youtu.be/0PH97_2A9Ao>
