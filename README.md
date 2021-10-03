@@ -1,6 +1,6 @@
 <!-- # Train and Deploy Image Caption via Tensorflow Serving with Flask on CentOS 7 -->
-<!-- # Train and Deploy Image Caption via Tensorflow Serving with Flask on CentOS 7 -->
 # Blind People's Eyes
+
 *"What's happened?" the blind people think*
 
 *Then he takes a photo and clicks the screen*
@@ -9,7 +9,8 @@
 
 *"OK Got it!"*
 
-# AI to help blind people to see the world!
+# AI to help blind people to see the world
+
 ## How we built it
 
 ### 1. Model Training: (Python)
@@ -83,4 +84,23 @@ API RESPONSE:
 {
   "text": "a group of people walking down a street next to tall buildings"
 }
+```
+
+### Test3
+
+![Test3](server/test3.jpg)
+
+```json
+API RESPONSE: 
+{
+  "text": "a woman walking down a street with a cell phone"
+}
+```
+
+## Files Structure
+
+```
+├─MAISHack  -> Android Application Files 
+├─Server    -> Back-End Files 
+└─Train     -> Model and Training File
 ```
